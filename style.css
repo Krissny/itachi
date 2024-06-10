@@ -114,6 +114,9 @@ main h1 {
   gap: 10px;
   box-shadow: 2px 7px 15px -5px black;
 }
+.card:hover {
+  box-shadow: 2px 7px 15px -5px red, -2px -7px 15px -5px #0890b3;
+}
 
 .card img {
   max-width: 290px;
